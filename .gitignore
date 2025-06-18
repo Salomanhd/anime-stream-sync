@@ -1,0 +1,8 @@
+.replit
+*.replit
+__pycache__/
+*.py[cod]
+.env
+node_modules/
+*.sqlite3
+.DS_Store
